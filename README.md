@@ -18,12 +18,12 @@ Fast and lightweight encryption process
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/PDFShield.git
+git clone https://github.com/Mikey-19/PDF-protection.git
 ```
 
 Navigate into the folder:
 ```bash
-cd PDFShield
+cd pdf-protection
 ```
 
 Install dependencies:
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Run the tool with:
 
 ```bash
-python pdf_protection_gui.py
+python pdf-pro-gui.py
 ```
  GUI Overview
 
