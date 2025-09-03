@@ -51,6 +51,8 @@ Apply Dark or Light theme based on user preference
 
 Encrypt and save the PDF with one click
 
+
+
  Screenshots
 
 Dark Mode Example
