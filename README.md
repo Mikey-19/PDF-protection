@@ -64,9 +64,14 @@ Light Mode Example
 ![Pdf-protection Dark](pdf-protection/pdf-protection-dark.png)
 
 
+
 License
 
-This project is licensed under the MIT License – you are free to use, modify, and distribute it.
+This project is for educational and research purposes only.
+
+Author
+
+Developed by Michael Aryee as part of a cybersecurity internship project at Inlighn Tech.
 
 
 
