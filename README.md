@@ -39,7 +39,7 @@ python pdf-pro-gui.py
 ```
  GUI Overview
 
-The PDFShield interface allows you to:
+The PDF-Protection interface allows you to:
 
 Select an input PDF file
 
